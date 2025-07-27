@@ -126,7 +126,7 @@ export default function HomePage() {
       <Header />
 
       {/* Hero Section */}
-      <section className="relative py-20 px-4 bg-vanilla-gradient overflow-hidden">
+      <section className="relative py-20 bg-vanilla-gradient overflow-hidden">
         <div className="absolute inset-0 bg-grid-pattern opacity-5" />
         <div className="absolute top-20 left-10 w-72 h-72 bg-vanilla-300/20 rounded-full blur-3xl animate-float" />
         <div
@@ -189,7 +189,7 @@ export default function HomePage() {
       </section>
 
       {/* Insurance Products */}
-      <section className="py-20 px-4">
+      <section className="py-20">
         <div className="container">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-vanilla-900 mb-4">Our Insurance Products</h2>
@@ -257,7 +257,7 @@ export default function HomePage() {
       </section>
 
       {/* Why Choose Us */}
-      <section className="py-20 px-4 bg-vanilla-50">
+      <section className="py-20 bg-vanilla-50">
         <div className="container">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-vanilla-900 mb-4">Why Choose Amar Insurance?</h2>
@@ -307,7 +307,7 @@ export default function HomePage() {
       </section>
 
       {/* Customer Testimonials */}
-      <section className="py-20 px-4">
+      <section className="py-20">
         <div className="container">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-vanilla-900 mb-4">What Our Customers Say</h2>
@@ -358,7 +358,7 @@ export default function HomePage() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-20 px-4 bg-vanilla-600">
+      <section className="py-20 bg-vanilla-600">
         <div className="container text-center">
           <h2 className="text-4xl font-bold text-white mb-4">Ready to Get Protected?</h2>
           <p className="text-xl text-vanilla-100 mb-8 max-w-2xl mx-auto">
